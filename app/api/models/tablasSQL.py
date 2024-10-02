@@ -19,3 +19,4 @@ class Usuario(Base):
     ubicacion = Column(String(100))
     metaAhorro = Column(Float)
     
+
